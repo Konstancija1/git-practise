@@ -1,0 +1,10 @@
+header,
+main,
+footer {
+  background-color: burlywood;
+}
+.first-section {
+  padding: 10 px 0 50px;
+  margin: 10px;
+  text-align: center;
+}

@@ -1,0 +1,47 @@
+header {
+  text-align: center;
+}
+header img {
+  height: 50px;
+}
+
+nav {
+  background: rgb(3, 99, 3);
+  padding: 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 20px;
+}
+section.grey-block {
+  padding: 20px;
+  background: rgb(198, 191, 191);
+}
+
+section.green-block {
+  padding: 20px;
+  background: rgb(157, 240, 157);
+}
+section {
+  background: rgb(198, 191, 191);
+  padding: 20px;
+}
+section img {
+  width: 100%;
+}
+
+h2 {
+  background: rgb(3, 99, 3);
+  color: white;
+  padding: 10px;
+  margin-top: 0;
+}
+.p3 {
+  font-family: 'Lucida Console', 'Courier New', monospace;
+}
+
+.grey-block h2 {
+  margin-top: 20px;
+}

@@ -1,0 +1,50 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: blueviolet;
+}
+.container {
+  background-color: rgb(50, 2, 94);
+  width: calc(600px - 2 * 25px - 2 * 6px);
+  border: dotted 10px rgb(249, 175, 2);
+  padding: 20px 25px 25px;
+  color: rgb(252, 87, 4);
+  margin: 0 auto;
+}
+
+h1 {
+  color: rgb(245, 7, 7);
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+h2 {
+  font-size: 32px;
+  font-weight: 800px;
+  text-align: center;
+}
+h3 {
+  font-size: 16px;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 15px;
+}
+p span {
+  font-size: 40px;
+}
+img {
+  content: normal;
+  image-rendering: optimizeQuality;
+  width: auto;
+  border: solid pink;
+  margin-top: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  padding: auto;
+  box-sizing: content-box;
+}
+.div {
+  width: 200px;
+  border: 5px;
+  padding: 10px;
+  box-sizing: border-box;
+}
